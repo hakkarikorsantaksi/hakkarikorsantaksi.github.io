@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hakkari Korsan Taksi | Yüksekova Havalimanı ve İlçe Yolu</title>
+  <link href="https://hakkarikorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://hakkarikorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://hakkarikorsantaksi.github.io/</id>
+  <updated>2026-11-19T02:29:57.703Z</updated>
+  <author><name>Hakkari Korsan Taksi</name></author>
+  <entry>
+    <title>Hakkari Korsan Taksi | Yüksekova Havalimanı ve İlçe Yolu</title>
+    <link href="https://hakkarikorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://hakkarikorsantaksi.github.io/</id>
+    <updated>2026-11-19T02:29:57.703Z</updated>
+    <summary>Hakkari korsan taksi: merkezden Yüksekova Havalimanı 75 km, Şemdinli ve Çukurca yolu, Esendere. Ücret araç çıkmadan söylenir, gece de çağrılır.</summary>
+  </entry>
+</feed>
